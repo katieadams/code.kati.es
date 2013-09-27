@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function bust () {
+  document.write = "";
+  window.top.location = window.self.location;
+  setTimeout(function() {
+    document.body.innerHTML = '';
+    }, 0);
+  window.self.onload = function(evt) {
+    document.body.innerHTML = '';
+  };
+}
+if (window.top !== window.self) { // are you trying to put self in an iframe?
+  try {
+    if (window.top.location.host) { // this is illegal to access unless you share a non-spoofable document domain
+      // fun times
+    } else {
+      bust(); // chrome executes this
+    }
+  } catch (ex) {
+    bust(); // everyone executes this
+  }
+}
+</script>
+<title>jPlay by TheArchivist - Codecanyon</title>
+<meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
+<style type='text/css'>
+* {
+    outline:none;
+}
+body {
+    margin:0;
+    padding:0;
+	overflow:hidden;
+}
+#banner {
+    height:55px;
+    background:#222;
+    position:relative;
+}
+#avatar {
+    position:absolute;
+    top:10px;
+    left:80px;
+    display:block;
+    width:35px;
+    height:35px;
+    text-indent:-9999px;
+    background:url('encase.png') no-repeat -1px -37px;
+}
+#portfolio {
+    position:absolute;
+    top:22px;
+    left:122px;
+    display:block;
+    width:192px;
+    height:14px;
+    text-indent:-9999px;
+    background:url('encase.png') no-repeat -37px -39px;
+}
+#options {
+    position:absolute;
+    top:18px;
+    right:80px;
+    margin:0;
+    padding:0;
+    height:18px;
+    list-style:none;
+}
+#options li {
+    margin:0;
+    padding:0;
+    height:18px;
+    list-style:none;
+    display:inline;
+}
+#options li a {
+     float:left;
+     display:block;
+     background:url('encase.png') no-repeat 0 0;
+     text-indent:-9999px
+}
+#options li#purchase a {
+     width:90px;
+     height:18px;
+     background-position:0 0;
+     margin-right:25px;
+}
+#options li#tweet a {
+     width:66px;
+     height:18px;
+     background-position:-119px 0;
+     margin-right:25px;
+}
+#options li#close a {
+     width:59px;
+     height:18px;
+     background-position:-212px 0;
+}
+#options li#purchase a:hover {
+     background-position:0 -18px;
+}
+#options li#tweet a:hover {
+     background-position:-119px -18px;
+}
+#options li#close a:hover {
+     background-position:-212px -18px;
+}
+
+</style>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script>
+</head>
+<body>
+
+<div id='banner'>
+    <div id='inner-banner'>
+        <div id='thearchivist'>
+            <a href='http://codecanyon.net/user/thearchivist?ref=TheArchivist' id='avatar'>thearchivist</a>
+            <a href='http://codecanyon.net/user/thearchivist?ref=TheArchivist' id='portfolio'>thearchivist | View Portfolio</a>
+        </div>
+        <ul id='options'>
+            <li id='purchase'><a href='http://codecanyon.net/item/jplay/120377?ref=TheArchivist'>Purchase</a></li>
+            <li id='tweet'><a href='https://twitter.com/intent/tweet?text=Check+out+this+great+%23codecanyon+item+jPlay+http://codecanyon.net/item/jplay/120377?ref=TheArchivist by @GetArchivist'>Tweet</a></li>
+            <li id='close'><a href='/codecanyon/jplay/'>Close</a></li>
+        </ul>
+    </div>
+</div>
+
+<iframe id='iframe' src='/codecanyon/jplay/' frameborder='0' width='100%'></iframe>
+
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function () {
+    function fixHeight() {
+        var headerHeight = jQuery('#banner').height();
+        jQuery('#iframe').attr('height', ((jQuery(window).height()) - headerHeight) + 'px');
+    }
+    jQuery(window).resize(function () {
+        fixHeight();
+    }).resize();
+});
+</script>
+
+</body>
+</html>

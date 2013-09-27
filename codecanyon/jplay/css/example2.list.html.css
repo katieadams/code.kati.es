@@ -1,0 +1,105 @@
+*{padding:0px;margin:0px;-moz-user-select:none;border:none}
+
+A{
+outline:none;
+text-decoration:none;
+color: blue;
+
+}
+A:visited{
+color: blue
+}
+
+OBJECT{
+margin-bottom: 6px
+}
+
+BODY{
+overflow-y:scroll;
+margin:0px;
+padding:0px;
+}
+
+.download{
+height: 18px;
+margin:0px;
+background: pink;
+}
+.title{
+font-family: Terminal, Verdana, Arial, Helvetica;
+font-size: 9px;
+text-transform:uppercase;
+cursor:pointer;
+cursor:hand;
+padding:5px;
+height: 15px;
+line-height: 15px;
+}
+.odd{
+background:#D78EF9;
+}
+.even{
+background: #F58EF9
+}
+LI{
+list-style-type:none;
+}
+UL{
+padding:0px
+}
+.details{
+font-family: Terminal, Verdana, Arial, Helvetica;
+font-size: 9px;
+background:pink;
+display:none
+}
+#placer{
+width: 100%
+}
+
+.scroll_area {
+	overflow-x: hidden;
+	overflow-y: auto;
+	height: 150px;
+	margin-right: -20px;
+	position: relative;
+	white-space: normal;
+	padding-bottom: 100px;
+}
+
+.v_scrollbar {
+	position: absolute;
+	top: 0px;
+	right: 1px;
+	width: 18px;
+	height: 100%;
+	background-color: #EEE;
+	opacity: 0.3;
+}
+
+.v_scrollbar_move {
+	position: absolute;
+	top: 0px;
+	width: 10px;
+	height: 20px;
+	background-color: #333;
+	cursor: pointer;
+	margin: 4px;
+}
+
+.end_marker:before,
+.end_marker:after {
+	clear: both;
+	display: inline-block;
+	content: ".";
+	line-height: 0px;
+	height: 0px;
+	visibility: hidden;
+}
+
+.end_marker {
+	width: 100%;
+	clear: both;
+	float: left;
+	height: 20px;
+}

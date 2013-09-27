@@ -1,0 +1,1 @@
+All the relevant documentation is included in this "pintools" folder. Simply open index.html.
