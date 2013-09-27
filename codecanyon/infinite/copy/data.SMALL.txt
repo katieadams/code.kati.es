@@ -1,0 +1,738 @@
+<!-- This file is for testing purposes only. You may want to see what happens when you reach the end of a page -->
+<!-- <p style="visibility:hidden">xxfinishedxx</p> -->
+<!-- This MUST be added at the end of each document for the script to register that the page has ended -->
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote><a name="speech1"><b>BERNARDO</b></a>
+<blockquote>
+<a name="1">Who's there?</a><br>
+</blockquote>
+
+<a name="speech2"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="2">Nay, answer me: stand, and unfold yourself.</a><br>
+</blockquote>
+
+<a name="speech3"><b>BERNARDO</b></a>
+<blockquote>
+<a name="3">Long live the king!</a><br>
+</blockquote>
+
+<a name="speech4"><b>FRANCISCO</b></a>
+<blockquote>
+<a name="4">Bernardo?</a><br>
+</blockquote>
+
+<a name="speech5"><b>BERNARDO</b></a>
+<blockquote>
+<a name="5">He.</a><br>
+</blockquote>
+
+<p style="visibility:hidden">xxfinishedxx</p>
